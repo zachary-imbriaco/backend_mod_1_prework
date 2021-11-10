@@ -14,7 +14,7 @@ If you've talked to any alum or near-alum of Turing, one thing they likely share
 One of those pieces is in how developers approach vocabulary. Knowing technical vocabulary will allow you to get more out of reading doucmentation and tutorials, and will allow you to communicate well with teams and ask good questions when you need help. Each section of your pre-work (and each lesson once you start Mod 1) will start with a vocabulary section. We don't always give you the definitions - this is intentional. You will create your own definition after having several opportunities to read definitions and see examples.
 
 Here's what we ask you do:
-- Find a special spot in your notebook for vocabulary and JavaScript reserved keywords. Mark it with a post-it or bookmark, so it's easy to find and come back to
+- Find a special spot in your notebook for vocabulary and Ruby reserved keywords. Mark it with a post-it or bookmark, so it's easy to find and come back to
 - When you start a new section of pre-work, write down each term. Leave plenty of space for (future) notes
 - As you read and work through the material you will come across definitions and build an understanding of these terms. Write in definitions, draw diagrams, write out relevant code snippets, etc. If you complete a section and don't have a grasp on a term, that's when it's time to reach out to your pre-work small group or cohort, and collaborate!
 
