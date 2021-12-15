@@ -44,8 +44,9 @@ end
 # Every state, abbreviation, and city.
 puts '-' * 10
 states.each do |state, abbrev|
-  city = cities[abbrev]
-  puts "#{state} is abbreviated #{abbrev} and has the city #{city}."
+  # Superfluous variable.
+  # city = cities[abbrev]
+  puts "#{state} is abbreviated #{abbrev} and has the city #{cities[abbrev]}."
 end
 
 puts '-' * 10
