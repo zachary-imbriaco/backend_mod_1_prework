@@ -20,7 +20,7 @@ end
 end
 
 
-# Write code that prints the result of 5 + 7 a total of 9 timees
+# Write code that prints the result of 5 + 7 a total of 9 times
 9.times do
   p 5 + 7
 end
